@@ -1,6 +1,6 @@
 {
   "name": "typescript-jest-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": "Charles Ahmadzadeh <superzadeh@outlook.com>",
   "scripts": {
